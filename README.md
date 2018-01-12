@@ -1,11 +1,10 @@
 # Rob-Resta
 
-<h4> A fully functioning web based software sollution for a "Robot Restaurant", Which is my final year undegraduate Research Project. Based on </h4>
-<h5>
-<li>Laravel</li>
-<li>Bootstrap</li>
-</h5>
-  
+<h4> A fully functioning web based software sollution for a "Robot Restaurant", Which is my final year undegraduate Research Project. Based on Laravel & Bootstrap ( HTML,CSS,JS,JQuery ).<p>Originally the Project is a Robot for the seving purpose for the customers in a restaurant.Which associate of Machine Learning, Image Procssing based on Raspberry-PI</p></h4>
+
+
+
+ 
 
 
 
