@@ -6,9 +6,9 @@
 
 
 
-<h2>Screenshots</h2>
+<h3>Screenshots</h3>
 
-<h3>Interface with User Site Login</h3>
+<h4>Interface with User Site Login</h4>
 
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/1.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/2.png)
