@@ -94,7 +94,7 @@
 - Shopping cart
 - Product Page
 - Catalogs & Products and their orders
-- Adin & User Login
+- Admin & User Login
 - Admin dashboard
 
 
