@@ -17,14 +17,14 @@
 
 <h3>Interface with User Site Login</h3>
 
-![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/1.png)
+Home Page![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/1.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/2.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/3.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/6.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/8.png)
 <hr>
 <br>
-<h3>Interface with User Site Login</h3>
+<h3>Interface with Admin Site Login</h3>
 
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/1.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/2.png)
