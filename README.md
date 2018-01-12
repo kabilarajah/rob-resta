@@ -26,7 +26,6 @@ Home Page![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master
 <h3>Interface with Admin Site Login</h3>
 
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/1.png)
-![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/2.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/3.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/4.png)
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/5.png)
