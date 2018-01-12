@@ -20,43 +20,94 @@
 
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/1.png)
 
+
+
+
+
 <h4>Shop Interface</h4> 
 
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/2.png)
+
+
+
+
 
 <h4>Single Product</h4>
 
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/3.png)
 
+
+
+
+
 <h4>Cart</h4> 
 
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/6.png)
+
+
+
+
 
 <h4>Profile</h4> 
 
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/user_shop/8.png)
 
+
+
+
+
 <hr>
 <br>
 <h3>Interface with Admin Site Login</h3>
 
+
+<h4>Admin Home</h4> 
+
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/1.png)
+
+
+
+<h4>Ordering PoP-UP</h4> 
+
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/3.png)
+
+
+
+
+<h4>Checkout (Here user name and table fed manually) </h4> 
+
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/4.png)
+
+
+
+
+<h4>Invoice (orders Shown in PoP-UP) </h4> 
+
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/5.png)
+
+
+
+
+
+
+<h4>Editing the Order </h4> 
+
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/6.png)
+
+
+
+
+<h4>Kitchen Side</h4> 
+
 ![image](https://raw.githubusercontent.com/kabilarajah/rob-resta/master/photos/admin_shop/7.png)
 
 
 <h4>Features</h4>
 - Shopping cart
-- Gallery page
+- Product Page
 - Catalogs & Products and their orders
-- Product comments
-- Purchase form (ajax)
+- Adin & User Login
 - Admin dashboard
-- Mailing
-- Orders statuses and mailing
-- SEO nice URLs & AUTO-SITEMAP http://[url]/sitemap.xml
+
 
 
