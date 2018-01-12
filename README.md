@@ -98,11 +98,10 @@
 - Admin dashboard
 
 
-<a href="kabilarajahy@gmail.com">Kabilarajah	&copy;</a>
 
 <h5>Email</h5>
 <a href="mailto:#">kabilarajahy@gmail.com</a>
 
-<p class="text-center">Copyright &copy; 2018. All Rights Reserved kabilarajah</p>
+<p class="text-center">Copyright &copy; 2018. All Rights Reserved kabilarajah &copy;</p>
 
 
